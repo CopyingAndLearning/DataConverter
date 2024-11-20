@@ -1,2 +1,4 @@
 11/20
-the still question is no create good for image
+the still question is creating good for image;how to storage the PIL.Image type to parquet file.However, I storage the Image with Byte.
+It's still to rethink,have no time recent,remark to make a mention for me.
+- how can use hugging_face dataset to do.
